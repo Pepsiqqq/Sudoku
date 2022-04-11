@@ -1,2 +1,0 @@
-# Sudoku
-sudoku for kursach
